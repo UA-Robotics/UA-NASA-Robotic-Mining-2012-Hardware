@@ -1,0 +1,182 @@
+Partlist
+
+Exported from Main board V4.0.sch at 3/19/2012 11:14:36 PM
+
+EAGLE Version 6.0.0 Copyright (c) 1988-2011 CadSoft
+
+Assembly variant: 
+
+Part     Value              Device             Package            Library      Sheet
+
+3.3V     EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   2
+5V       EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   2
+12V      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   2
+13                          LEDCHIP-LED0805    CHIP-LED0805       adafruit     2
+ADC0     EUROMAG-390DEG     EUROMAG-390DEG     M3                 RJ's_parts   4
+ADC1     EUROMAG-390DEG     EUROMAG-390DEG     M3                 RJ's_parts   4
+ADC2     EUROMAG-390DEG     EUROMAG-390DEG     M3                 RJ's_parts   4
+ADC3     EUROMAG-390DEG     EUROMAG-390DEG     M3                 RJ's_parts   4
+ADC4     EUROMAG-390DEG     EUROMAG-390DEG     M3                 RJ's_parts   4
+ADC5     EUROMAG-390DEG     EUROMAG-390DEG     M3                 RJ's_parts   4
+ADC6                        M03PTH             1X03               SparkFun     4
+ADC7                        M03PTH             1X03               SparkFun     4
+ADC8                        M03PTH             1X03               SparkFun     4
+ADC9                        M03PTH             1X03               SparkFun     4
+ADC10                       M03PTH             1X03               SparkFun     4
+ADC11                       M03PTH             1X03               SparkFun     4
+C2       1200uF/50v         CAP_CAN1           CAN_18MM           NASA_LIB     1
+C3       1200uF/50v         CAP_CAN1           CAN_18MM           NASA_LIB     1
+C4       1uf/50v            C-USC0805          C0805              adafruit     1
+C5       1uf/50v            C-USC0805          C0805              adafruit     1
+C6       0.1uF/50v          C-USC0805          C0805              adafruit     1
+C7       1000uF/25v         CAP_CAN1           CAN_18MM           NASA_LIB     1
+C8       1uF/50v            C-USC0805          C0805              adafruit     1
+C9       1000uF/25v         CAP_CAN1           CAN_18MM           NASA_LIB     1
+C10      1uF/50v            C-USC0805          C0805              adafruit     1
+C11      10uF/16v           CPOL-USE3.5-10     E3,5-10            adafruit     1
+C12      10uf/16v           C-USC0805          C0805              adafruit     1
+C13      10uF               CPOL-USA/3216-18R  A/3216-18R         adafruit     3
+C14      0.1uF              C-USC0805K         C0805K             adafruit     3
+C15      0.1uF              C-USC0805K         C0805K             adafruit     3
+C16      100n               C-USC0805          C0805              adafruit     2
+C17      100n               C-USC0805          C0805              adafruit     2
+C18      100n               C-USC0805          C0805              adafruit     2
+C19      100n               C-USC0805          C0805              adafruit     2
+C20      22p                C-USC0805          C0805              adafruit     2
+C21                         C-USC1812          C1812              adafruit     3
+C22      0.1uf              C-USC0805K         C0805K             adafruit     3
+C23      10uf               CAP_POL3528        EIA3528            SparkFun     3
+C24      0.1uF              C-USC0805K         C0805K             adafruit     3
+C25      0.1uF              C-USC0805          C0805              adafruit     3
+C26      10uF               CAP_POL3528        EIA3528            SparkFun     3
+C27      0.1uF              C-USC0805          C0805              adafruit     2
+CN1      MINIB              USBMINIB           USB-MINIB          adafruit     3
+D1       TVS                TVS                DO-214AC           NASA_LIB     1
+D2       Vin                LEDCHIP-LED0805    CHIP-LED0805       adafruit     1
+D3                          DIODE-SMC          SMC                diode        1
+D4                          DIODE-SMC          SMC                diode        1
+D5       5v                 LEDCHIP-LED0805    CHIP-LED0805       adafruit     2
+D6       3.3v               LEDCHIP-LED0805    CHIP-LED0805       adafruit     2
+D7                          LEDCHIP-LED0805    CHIP-LED0805       adafruit     2
+D8       12                 LEDCHIP-LED0805    CHIP-LED0805       adafruit     2
+D9                          LEDCHIP-LED0805    CHIP-LED0805       adafruit     3
+EACT                        LEDCHIP-LED0805    CHIP-LED0805       adafruit     3
+ELINK                       LEDCHIP-LED0805    CHIP-LED0805       adafruit     3
+ESTOP    EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   1
+H2       MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD            holes        4
+H3       MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD            holes        4
+H4       MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD            holes        4
+H5       MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD            holes        4
+H6       MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD            holes        4
+H7       MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD            holes        4
+H8       MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD            holes        4
+H10      MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD            holes        4
+IC1      FT232RL            FT232RL            SSOP28             ftdichip     3
+IC2      ATMEGA1280-16AU    ATMEGA1280-16AU    TQFP100            atmel-2005   2
+IC3      LM2576             LM2576             TO-263-5           NASA_LIB     1
+IC4      MAX4080            MAX4080            SO08               RJ's parts   1
+IC5      LM2576             LM2576             TO-263-5           NASA_LIB     1
+ICSP     ICSP               PINHD-2X3          2X03               pinhead      2
+ISP1     AVRISP-6           AVRISP-6           AVRISP             adafruit     3
+ISP2     AVRISP-6           AVRISP-6           AVRISP             adafruit     2
+J1       EUROMAG-4          EUROMAG-4          M4                 RJ's_parts   2
+J2       EUROMAG-4          EUROMAG-4          M4                 RJ's_parts   2
+J3       EUROMAG-4          EUROMAG-4          M4                 NASA_LIB     3
+J4       I2C LED            EUROMAG-4          M4                 NASA_LIB     2
+J19      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J20      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J21      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J22      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J23      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J24      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J25      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J26      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J27      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J28      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J29      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+J30      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   4
+JP1                         M08LOCK            1X08_LOCK          SparkFun     4
+JP2                         M08LOCK            1X08_LOCK          SparkFun     4
+JP3                         M03PTH             1X03               SparkFun     2
+JP4                         M03PTH             1X03               SparkFun     2
+JP5                         M08LOCK_LONGPADS   1X08_LOCK_LONGPADS SparkFun     3
+JP6                         M04LOCK_LONGPADS   1X04_LOCK_LONGPADS SparkFun     2
+JP7                         M03LOCK            1X03_LOCK          SparkFun     2
+JP8                         M03LOCK            1X03_LOCK          SparkFun     3
+JP9                         M03LOCK_LONGPADS   1X03_LOCK_LONGPADS SparkFun     2
+JP10                        M04LONGPADS        1X04_LONGPADS      SparkFun     3
+L1                          FERITEBEAD         0603               EmEndev      1
+L2                          FERITEBEAD         0603               EmEndev      1
+L3       100uH              INDUCTOR           INDUCTOR_5X3       NASA_LIB     1
+L4       100uH              INDUCTOR           INDUCTOR_5X3       NASA_LIB     1
+L5       FERITEBEAD         FERITEBEAD         0603               EmEndev      1
+ORD                         JUMPER-2SMD-NO     SJ_2S-NO           SparkFun     2
+ORD1                        JUMPER-2SMD-NO     SJ_2S-NO           SparkFun     3
+OSS                         CERMOSCILL-AWCSR   AWCSR              adafruit     2
+OSS1                        CERMOSCILL-AWCSR   AWCSR              adafruit     3
+OSS2                        CERMOSCILL-AWCSR   AWCSR              adafruit     2
+R1       1.21k              R-US_R0805         R0805              adafruit     1
+R2       POWERSHUNT         POWERSHUNT         RW3R5EAR100JE      NASA_LIB     1
+R3       24k                R-US_R0805         R0805              adafruit     1
+R4       91k                R-US_R0805         R0805              adafruit     1
+R5       47k                R-US_R0805         R0805              adafruit     1
+R6       NA                 R-US_R0805         R0805              adafruit     1
+R7       NA                 R-US_R0805         R0805              adafruit     1
+R8       NA                 R-US_R0805         R0805              adafruit     1
+R9       NA                 R-US_R0805         R0805              adafruit     1
+R10      1k                 R-US_R0805         R0805              adafruit     2
+R11      1k                 R-US_R0805         R0805              adafruit     2
+R12      1k                 R-US_R0805         R0805              adafruit     2
+R13      1K                 R-US_R0805         R0805              adafruit     3
+R14      1K                 R-US_R0805         R0805              adafruit     3
+R15      10                 R-US_R0805         R0805              adafruit     3
+R16                         R-US_FLIPFLOP      0805-THM           adafruit     4
+R17                         R-US_FLIPFLOP      0805-THM           adafruit     4
+R18                         R-US_FLIPFLOP      0805-THM           adafruit     4
+R19                         R-US_FLIPFLOP      0805-THM           adafruit     4
+R20                         R-US_FLIPFLOP      0805-THM           adafruit     4
+R21                         R-US_FLIPFLOP      0805-THM           adafruit     4
+R22                         R-US_FLIPFLOP      0805-THM           adafruit     4
+R23                         R-US_FLIPFLOP      0805-THM           adafruit     4
+R24      1k                 R-US_R0805         R0805              adafruit     2
+R25      1k                 R-US_R0805         R0805              adafruit     2
+R26      10k                R-US_R0805         R0805              adafruit     2
+R27      10K                RESISTOR           0805               SparkFun     2
+R28      182                R-US_R0805         R0805              adafruit     3
+R29      182                R-US_R0805         R0805              adafruit     3
+R30      182                R-US_R0805         R0805              adafruit     3
+R31      75                 R-US_R0805         R0805              adafruit     3
+R32      75                 R-US_R0805         R0805              adafruit     3
+R33      1K                 R-US_R0805         R0805              adafruit     3
+R34      10K                R-US_R0805         R0805              adafruit     3
+R35      18k                R-US_R0805         R0805              adafruit     2
+R36      13k                R-US_R0805         R0805              adafruit     2
+R37      91k                R-US_R0805         R0805              adafruit     1
+R38      24k                R-US_R0805         R0805              adafruit     1
+R39      1K                 RESISTOR           0805               SparkFun     2
+R40      2k                 R-US_R0805         R0805              adafruit     2
+R41      2k                 R-US_R0805         R0805              adafruit     2
+RST_EN                      JUMPER-2PTH_LOCK   1X02_LOCK          SparkFun     2
+RST_EN1                     JUMPER-2PTH_LOCK   1X02_LOCK          SparkFun     3
+RX       Green              LEDCHIP-LED0805    CHIP-LED0805       adafruit     3
+RX_SW                       SWITCH-SPSTKIT     SWITCH-SPDT_KIT    SparkFun     3
+S1                          10-XX              B3F-10XX           switch-omron 2
+S3                          10-XX              B3F-10XX           switch-omron 3
+S4                          10-XX              B3F-10XX           switch-omron 2
+TX       Red                LEDCHIP-LED0805    CHIP-LED0805       adafruit     3
+TX_SW                       SWITCH-SPSTKIT     SWITCH-SPDT_KIT    SparkFun     3
+U1       ATMEGA328          ATMEGA168          TQFP32-08          SparkFun     3
+U2       MAX485SO           MAX485SO           SO08               NASA_LIB     3
+U3       AP1117-3.3V        AP1117-3.3V        TO-252             RJ's_parts   1
+U4       MUX-74HC4067       MUX-74HC4067SMD    SSOP24             SparkFun     3
+U5       LANTRONIX_B/G      LANTRONIX_A/B      LANA/BTH           NASA_LIB     3
+U6       MAX823             MAX823             SOT23-5L           RJ's parts   3
+U7       ATMEGA328          ATMEGA168          TQFP32-08          SparkFun     2
+U8       MAX485SO           MAX485SO           SO08               NASA_LIB     2
+U11      ATTINY45DIP8       ATTINY45DIP8       DIP08              SparkFun     2
+U47      MAX6818            MAX6818            SSOP-20            RJ's parts   2
+U49      MAX6818            MAX6818            SSOP-20            RJ's parts   2
+U60      MAX823             MAX823             SOT23-5L           RJ's parts   2
+VIN      EUROMAG-2          EUROMAG-2          M2                 RJ's_parts   1
+WCONN                       LEDCHIP-LED0805    CHIP-LED0805       adafruit     3
+X1       TLA-6T118LF        TLA-6T118LF        SO-16MOD           NASA_LIB     3
